@@ -20,7 +20,6 @@ setup(
         "colorama",
         "netmiko",
         "requests",
-        "textfsm<2.0.0,>=1.1.0",
     ],
     entry_points={
         "console_scripts": [
