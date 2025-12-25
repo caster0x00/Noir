@@ -2,7 +2,7 @@
 
 JunOS configuration analyzer to find security misconfigurations and vulnerabilities.
 
-![Cover art by Magama Bazarov](graphics/caster-noir-cover.png)
+![Cover art by Mahama Bazarov](graphics/caster-noir-cover.png)
 
 **Noir** – is a Juniper configuration audit tool that inspects JunOS systems for vulnerabilities and security misconfigurations. Its main feature is that Noir only reads the configuration, performing security analysis without running exploits, brute force attacks, or other external actions.
 
@@ -326,7 +326,7 @@ Demonstration of CVE search for JunOS version `24.4R1.9`
 
 # Copyright & License
 
-Copyright (c) 2025 Magama Bazarov.
+Copyright (c) 2025 Mahama Bazarov.
 This project is licensed under the MIT License.
 
 This project is not affiliated with or endorsed by Juniper Networks, Inc.
@@ -341,4 +341,4 @@ All Juniper trademarks and product names are the property of their respective ow
 # Outro
 
 If you have any suggestions or find any bugs, feel free to create issues in the repository or contact me:
-magamabazarov@mailbox.org
+mahamabazarov@mailbox.org

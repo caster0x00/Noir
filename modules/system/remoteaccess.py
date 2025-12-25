@@ -1,4 +1,4 @@
-# Copyright (c) 2025 Magama Bazarov
+# Copyright (c) 2025 Mahama Bazarov
 # Licensed under the MIT License
 # This project is not affiliated with or endorsed by Juniper Networks, Inc.
 
