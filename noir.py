@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Copyright (c) 2025 Magama Bazarov
+# Copyright (c) 2025 Mahama Bazarov
 # Licensed under the MIT License
 # This project is not affiliated with or endorsed by Juniper Networks, Inc.
 
@@ -23,8 +23,8 @@ def banner():
 """
     print("    " + banner)
     print("    " + "Noir: " + Style.RESET_ALL + "JunOS Security Inspector")
-    print("    " + "Developer: " + Style.RESET_ALL + "Magama Bazarov (Caster)")
-    print("    " + "Contact: " + Style.RESET_ALL + "magamabazarov@mailbox.org")
+    print("    " + "Developer: " + Style.RESET_ALL + "Mahama Bazarov (Caster)")
+    print("    " + "Contact: " + Style.RESET_ALL + "mahamabazarov@mailbox.org")
     print("    " + "Version: " + Style.RESET_ALL + "1.0.0")
     print("    " + "Documentation & Usage: " + Style.RESET_ALL + "https://github.com/caster0x00/Noir")
     print()
